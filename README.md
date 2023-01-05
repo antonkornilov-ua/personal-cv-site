@@ -11,5 +11,5 @@ It's was made with: </br>
 
 Link to app: </br>
 <b>https://anton-kornilov-cv.netlify.app/</b>
-<iframe src="https://giphy.com/embed/vF6NnCczoYjHon6Eo7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stand-with-ukraine-asteldesign-vF6NnCczoYjHon6Eo7">via GIPHY</a></p>
+
 
