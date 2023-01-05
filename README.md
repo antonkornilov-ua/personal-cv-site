@@ -7,7 +7,8 @@ It's was made with: </br>
         - React Hooks; </br>
         - Custom Hooks; </br>
         </ul>
-    - React Router </hr>
+    - React Router</br>
+    - Advanced Dark/light theme (with localStorage func)</hr>
 
 Link to app: </br>
 <b>https://anton-kornilov-cv.netlify.app/</b>
