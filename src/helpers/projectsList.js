@@ -53,7 +53,7 @@ const projects = [
         skills: 'HTML, CSS, JavaScript',
         img: project06,
         imgBig: project06Big,
-        link: 'https://spacex-dragon.netlify.app/',
+        link: 'https://github.com/antonkornilov-ua/09-20-2022--adaptive-site',
     },
 ];
 export {projects}
