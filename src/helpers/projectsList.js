@@ -14,6 +14,20 @@ import project06Big from './../img/projects/06-big.jpg';
 
 const projects = [
     {
+        title: 'Local school site',
+        skills: 'React, React Router Dom, Tailwind, Adaptive, Leaflet',
+        img: project05,
+        imgBig: project05Big,
+        link: 'https://github.com/antonkornilov-ua/school295',
+    },
+    {
+        title: 'SmartSpace ',
+        skills: 'HTML, CSS, JavaScript',
+        img: project06,
+        imgBig: project06Big,
+        link: 'https://github.com/antonkornilov-ua/09-20-2022--adaptive-site',
+    },
+    {
         title: 'Password Generator',
         skills: 'React, SCSS',
         img: project01,
@@ -40,20 +54,6 @@ const projects = [
         img: project04,
         imgBig: project04Big,
         link: 'https://github.com/antonkornilov-ua/React-Quiz-App',
-    },
-    {
-        title: 'Quote generator',
-        skills: 'React',
-        img: project05,
-        imgBig: project05Big,
-        link: 'https://github.com/antonkornilov-ua/react-quote-generator',
-    },
-    {
-        title: 'SmartSpace ',
-        skills: 'HTML, CSS, JavaScript',
-        img: project06,
-        imgBig: project06Big,
-        link: 'https://github.com/antonkornilov-ua/09-20-2022--adaptive-site',
     },
 ];
 export {projects}
