@@ -14,7 +14,7 @@ const Header = () => {
                     <p>with passion for learning and creating.</p>
                 </div>
                 <a
-                    href='https://drive.google.com/drive/folders/1ZhmS0xZkymqd4ytbltX7KGDZSB3GJTE1?usp=sharing'
+                    href='https://drive.google.com/file/d/1tHUPsB-KMstzybtiK9haMSNTRNv2IMBk/view'
                     className='btn'
                     target='_blank'
                     rel='noreferrer'>
