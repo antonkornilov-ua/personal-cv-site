@@ -3,7 +3,7 @@ import './style.css'
 import github from './../../img/icons/gitHub.svg';
 import linkedin from './../../img/icons/linkedIn.svg';
 import netlify from './../../img/icons/netlify.svg';
-import twitter from './../../img/icons/twitter.svg';
+import threads from './../../img/icons/threads.svg';
 
 const Footer = () => {
     return (
@@ -33,8 +33,8 @@ const Footer = () => {
                             </a>
                         </li>
                         <li className='social__item'>
-                            <a href='https://twitter.com/tomnookwashere' rel='noreferrer' target='_blank'>
-                                <img src={twitter} alt='Link' />
+                            <a href='https://www.threads.net/@anton_k_0_' rel='noreferrer' target='_blank'>
+                                <img src={threads} alt='Link' width={38} height={38}/>
                             </a>
                         </li>
                     </ul>
