@@ -11,49 +11,48 @@ import project05Big from './../img/projects/05-big.jpg';
 import project06 from './../img/projects/06.jpg';
 import project06Big from './../img/projects/06-big.jpg';
 
-
 const projects = [
+    {
+        title: 'Zaputopia',
+        skills: 'Next.JS, Tailwind, nextTheme, nextAuth, MongoDB, custom Hook, jest',
+        img: project04,
+        imgBig: project04Big,
+        link: 'https://project-zaputopia.vercel.app/',
+    },
     {
         title: 'Local school site',
         skills: 'React, React Router Dom, Tailwind, Adaptive, Leaflet',
         img: project05,
         imgBig: project05Big,
-        link: 'https://github.com/antonkornilov-ua/school295',
+        link: 'https://school295.netlify.app/',
+    },
+    {
+        title: 'Weather App',
+        skills: 'React, Typescript, Tailwind, Weather API, Images for big Cities',
+        img: project01,
+        imgBig: project01Big,
+        link: 'https://antons-weather-v2.netlify.app/',
+    },
+    {
+        title: 'User modal window',
+        skills: 'React, TypeScript, dummyJSON, modal window',
+        img: project02,
+        imgBig: project02Big,
+        link: 'https://funny-paprenjak-3c2b41.netlify.app/',
+    },
+    {
+        title: 'Tasks',
+        skills: 'React, Materialize-css, TypeScript, UUID',
+        img: project03,
+        imgBig: project03Big,
+        link: 'https://pet-notes-tsreact.netlify.app/',
     },
     {
         title: 'SmartSpace ',
         skills: 'HTML, CSS, JavaScript',
         img: project06,
         imgBig: project06Big,
-        link: 'https://github.com/antonkornilov-ua/09-20-2022--adaptive-site',
-    },
-    {
-        title: 'Password Generator',
-        skills: 'React, SCSS',
-        img: project01,
-        imgBig: project01Big,
-        link: 'https://github.com/antonkornilov-ua/password-generator',
-    },
-    {
-        title: 'Photo App',
-        skills: 'React, SCSS, mockAPI',
-        img: project02,
-        imgBig: project02Big,
-        link: 'https://github.com/antonkornilov-ua/React-photo-app',
-    },
-    {
-        title: 'Invitation user app',
-        skills: 'React, SCSS, React Content Loader',
-        img: project03,
-        imgBig: project03Big,
-        link: 'https://github.com/antonkornilov-ua/InvitationUserApp',
-    },
-    {
-        title: 'Quiz App',
-        skills: 'React, SCSS',
-        img: project04,
-        imgBig: project04Big,
-        link: 'https://github.com/antonkornilov-ua/React-Quiz-App',
+        link: 'https://adaptive-smartspace.netlify.app/',
     },
 ];
 export {projects}

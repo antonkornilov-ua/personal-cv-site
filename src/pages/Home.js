@@ -8,11 +8,11 @@ const Home = () => {
                     <ul className='content-list'>
                         <li className='content-list__item'>
                             <h2 className='title-2'>Frontend</h2>
-                            <p>JavaScript, ReactJS, HTML, CSS, Tailwind CSS, SCSS, NPM, BootStrap</p>
+                            <p>JavaScript, ReactJS, Typescript, Next.JS, HTML, CSS, Tailwind CSS, SCSS, NPM, BootStrap</p>
                         </li>
                         <li className='content-list__item'>
                             <h2 className='title-2'>Works with</h2>
-                            <p>Github, Figma, Netlify </p>
+                            <p>Git, Figma, Netlify, Vercel, MongoDB </p>
                         </li>
                     </ul>
                 </div>

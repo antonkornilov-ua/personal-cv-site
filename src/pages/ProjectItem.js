@@ -1,6 +1,6 @@
 import { useParams } from 'react-router-dom';
-import BtnGitHub from '../components/btnGitHub/BtnGitHub';
 import { projects } from '../helpers/projectsList';
+import BtnApp from '../components/btnApp/BtnApp';
 
 
 const ProjectItem = () => {
@@ -18,7 +18,7 @@ const ProjectItem = () => {
                         <p>Skills: {project.skills}</p>
                     </div>
 
-                    <BtnGitHub link={project.link} />
+                    <BtnApp link={project.link} />
                 </div>
             </div>
         </main>

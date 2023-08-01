@@ -1,8 +1,14 @@
 .project {
-    max-width: 370px;
+ max-width: 370px;
+    min-height: 350px;
     background-color: var(--project-card-bg);
     box-shadow: var(--box-shadow);
     border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+.project:hover{
+transform: scale(1.05) translateY(-5px); 
+    box-shadow: var(--box-shadow-hover); 
 }
 
 .project__img {

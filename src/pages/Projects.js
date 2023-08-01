@@ -18,7 +18,7 @@ function Projects() {
         ).then(() => {
             setLoading(false);
         });
-    }, [projects]);
+    }, []);
 
     return (
         <main className='section'>
